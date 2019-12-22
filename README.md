@@ -22,12 +22,12 @@ ls -s /Rahul/jenkins /var/lib/jenkins
 ### Step 4) Set environment variable 
 
 ---
-export JENKINS_HOME=/Rahul/jenkins
+    export JENKINS_HOME=/Rahul/jenkins
 
-for check 
+    for check 
 
-export | grep -i jenkins 
+    export | grep -i jenkins 
 
-Then edit file vim /root/.bash_profile
+    Then edit file vim /root/.bash_profile
 
 ---
