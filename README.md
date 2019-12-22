@@ -29,5 +29,7 @@
     export | grep -i jenkins 
 
     Then edit file vim /root/.bash_profile
+![env](https://user-images.githubusercontent.com/43333447/71322084-40b7f900-24e9-11ea-9382-07647ca7ae99.PNG)
+
 
 ---
