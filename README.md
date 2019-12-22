@@ -16,7 +16,7 @@
 ### Step 2) - Create symlink 
 
 ---
-        ls -s /Rahul/jenkins /var/lib/jenkins
+        ln -s /Rahul/jenkins /var/lib/jenkins
 
 ---
 ### Step 4) Set environment variable 
