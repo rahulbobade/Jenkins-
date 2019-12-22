@@ -49,6 +49,13 @@
 ![upda](https://user-images.githubusercontent.com/43333447/71322186-d0aa7280-24ea-11ea-90d5-4cc234d55849.PNG)
 
 
+### Step 7) Restart jenkins 
+
+---
+             systemctl stop jenkins 
+             systemctl start jenkins 
+
+---             
 
 
 
