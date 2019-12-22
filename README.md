@@ -9,14 +9,14 @@
 ### step 1) - Move jenkins directory 
 
 ---
-mv /var/lib/jenkins /Rahul/jenkins 
+       mv /var/lib/jenkins /Rahul/jenkins 
 
 ---
 
 ### Step 2) - Create symlink 
 
 ---
-ls -s /Rahul/jenkins /var/lib/jenkins
+        ls -s /Rahul/jenkins /var/lib/jenkins
 
 ---
 ### Step 4) Set environment variable 
